@@ -1,0 +1,16 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    char ch;
+
+    cout << "Enter keys, 'x' to stop.\n";
+
+    do{
+        cout<< ch;
+        cin >> ch;
+    }while(ch!='x');
+
+    return 0;
+}

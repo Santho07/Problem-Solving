@@ -1,3 +1,3 @@
-# Interview Preparation
+# Problem Solving
 
-Practice problems for Programming Interview Preparation.
+Programming problems that I have solved in different online judges.
